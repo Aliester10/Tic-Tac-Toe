@@ -1,4 +1,4 @@
-# Nama Proyek Anda
+# Tic Tac Toe
 
 Deskripsi singkat proyek Anda di sini.
 
